@@ -1,0 +1,47 @@
+Step=HSRT,Fab=11,Configuration_Width=16
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,4,4.49438,	WAVE004,6,6.74157
+06,5,5.61798,	WAVE005,83,93.2584
+07,28,31.4607,	
+08,52,58.427,	
+Step=HSRT,Fab=11,Configuration_Width=8
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,16,1.78571,	WAVE004,15,1.67411
+06,157,17.5223,	WAVE005,881,98.3259
+07,349,38.9509,	
+08,374,41.7411,	
+Step=PGSRT,Fab=11,Configuration_Width=16
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,3,2.41935,	WAVE004,4,3.22581
+06,7,5.64516,	WAVE005,120,96.7742
+07,39,31.4516,	
+08,75,60.4839,	
+Step=PGSRT,Fab=11,Configuration_Width=8
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+06,17,5.80205,	WAVE005,293,100
+07,107,36.5188,	
+08,169,57.6792,	
+Step=HSRT,Fab=16,Configuration_Width=16
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,1,1.23457,	WAVE005,81,100
+06,21,25.9259,	
+07,34,41.9753,	
+08,25,30.8642,	
+Step=HSRT,Fab=16,Configuration_Width=8
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,39,4.84472,	WAVE004,35,4.34783
+06,80,9.93789,	WAVE005,763,94.7826
+07,295,36.646,	WAVE006,7,0.869565
+08,391,48.5714,	
+Step=PGSRT,Fab=16,Configuration_Width=16
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,1,1.14943,	WAVE004,2,2.29885
+06,20,22.9885,	WAVE005,85,97.7011
+07,28,32.1839,	
+08,38,43.6782,	
+Step=PGSRT,Fab=16,Configuration_Width=8
+MPPR,MPPR_Amount,MPPR_Percentage(%),WAVE_ID,WAVE_ID_Amount,WAVE_ID_Percentage(%)
+05,1,0.694444,	WAVE005,144,100
+06,3,2.08333,	
+07,7,4.86111,	
+08,133,92.3611,	
